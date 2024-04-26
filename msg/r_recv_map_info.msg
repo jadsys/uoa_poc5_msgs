@@ -1,0 +1,2 @@
+string revision
+string map_layer
